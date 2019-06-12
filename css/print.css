@@ -1,0 +1,23 @@
+@media print {
+  #button1
+  {
+    display: none !important;
+  }
+  #mainDiv
+  {
+    width: 100%;
+  }
+
+  #div1
+  {
+    width: 20%;
+    float: left
+  }
+   #div2
+  {
+    width: 20%;
+    float: right;
+    margin-left: 50px;
+    
+  }
+}
